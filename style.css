@@ -2,6 +2,10 @@
 *{
     font-family: 'Bebas Neue', cursive;
 }
+::-webkit-scrollbar{
+    display: none;
+}
+
 #cal{
     margin-left: 450px;
     background: linear-gradient(#a1cbdb, #e5ba91);
